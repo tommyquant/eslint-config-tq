@@ -7,11 +7,11 @@
     "stylelint": "^13"
   },
   "devDependencies": {
-    "eslint-plugin-react": "^7.20.0",
-    "stylelint-order": "^4.1.0"
-  },
-  "dependencies": {
     "eslint": "^7.2.0",
     "stylelint": "^13.6.0"
+  },
+  "dependencies": {
+    "eslint-plugin-react": "^7.20.0",
+    "stylelint-order": "^4.1.0"
   }
 }
