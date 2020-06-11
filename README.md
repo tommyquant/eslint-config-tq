@@ -1,1 +1,1 @@
-# javascript
+This repo contains my personal linter configs.
